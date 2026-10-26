@@ -1,7 +1,7 @@
 <h1 align="center">Hi, my name is Kai</h1>
 
 
-### 😎 About Me
+### About Me :
 ```typescript
 const kai: Developer = {
   status: "Applied Computer Science Student @Hochschule-Heilbronn 🇩🇪",
@@ -12,9 +12,6 @@ const kai: Developer = {
 ```
 
 ---
-
-### 🐐 GitHub Stats
-
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=kaiyoKai&rank_icon=github&hide_title=true&show_icons=true&hide=stars&theme=ambient_gradient" alt="Kai's GitHub Stats" />
 </p>
