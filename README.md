@@ -1,7 +1,7 @@
 <h1 align="center">Hi, my name is Kai</h1>
 
 
-### About Me :
+### About Me 
 ```typescript
 const kai: Developer = {
   status: "Applied Computer Science Student @Hochschule-Heilbronn 🇩🇪",
@@ -18,7 +18,7 @@ const kai: Developer = {
 
 ---
 
-### TODOS/Ideas :
+### TODOS/Ideas 
 
 - [classy-signals](https://github.com/kaiyoKai/classy-signals): small utility library for the TC39 signals polyfill (observable classes and collections).
 - **Project XOXO**: multiplayer grid game using lit-labs/signals
