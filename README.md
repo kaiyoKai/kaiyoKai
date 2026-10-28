@@ -5,7 +5,7 @@
 ```typescript
 const kai: Developer = {
   status: "Applied Computer Science Student @Hochschule-Heilbronn 🇩🇪",
-  tools: ["Neovim", "Linux / I use Arch Btw","Hyprland","Typst","Obsidian"],
+  tools: ["Neovim", "Arch Linux","Hyprland","Typst","Obsidian"],
   funFact: "⛷️ is my favorite emoji"
 } as const satisfies Developer;
 
