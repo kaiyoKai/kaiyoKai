@@ -11,13 +11,6 @@ const kai: Developer = {
 
 ```
 
----
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=kaiyoKai&rank_icon=github&hide_title=true&show_icons=true&hide=stars&theme=ambient_gradient" alt="Kai's GitHub Stats" />
-</p>
-
----
-
 ### TODOS/Ideas 
 
 - [classy-signals](https://github.com/kaiyoKai/classy-signals): small utility library for the TC39 signals polyfill (observable classes and collections).
